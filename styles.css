@@ -1,0 +1,42 @@
+body {
+    background-color: #000000;
+    color: #fff;
+    font-family: 'Courier New', monospace;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    border-bottom: 2px solid #ff0000;
+}
+
+.title {
+    font-size: 48px;
+    text-shadow: 3px 3px 0 #ffcc00;
+}
+
+.container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.card {
+    background-color: #000000;
+    border: 1px solid #ff0000;
+}
+
+.card-title {
+    font-size: 24px;
+    text-shadow: 1px 1px 0 #ff0000;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    border-top: 2px solid #ff0000;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+}
