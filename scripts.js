@@ -1,10 +1,10 @@
 $(document).ready(function () {
     const characters = [
-        { name: "Eleven", img: "img/2.jpeg", summary: "Eleven es una niña con habilidades psicoquinéticas..." },
-        { name: "Mike", img: "img/1.jpeg", summary: "Mike es un líder nato y el mejor amigo de Will..." },
-        { name: "Dustin", img: "img/6.jpeg", summary: "Dustin es conocido por su inteligencia y habilidades técnicas..." },
-        { name: "Lucas", img: "img/4.jpeg", summary: "Lucas es valiente y leal a sus amigos..." },
-        { name: "Will", img: "img/5.jpeg", summary: "Will es un chico sensible que ha sido afectado por el Upside Down..." },
+        { name: "Eleven", img: "img/2.jpg", summary: "Eleven es una niña con habilidades psicoquinéticas..." },
+        { name: "Mike", img: "img/1.jpg", summary: "Mike es un líder nato y el mejor amigo de Will..." },
+        { name: "Dustin", img: "img/6.jpg", summary: "Dustin es conocido por su inteligencia y habilidades técnicas..." },
+        { name: "Lucas", img: "img/4.jpg", summary: "Lucas es valiente y leal a sus amigos..." },
+        { name: "Will", img: "img/5.jpg", summary: "Will es un chico sensible que ha sido afectado por el Upside Down..." },
         { name: "Max", img: "img/3.jpg", summary: "Max es una chica independiente y hábil con la patineta..." },
     ];
 
